@@ -8,6 +8,9 @@
       "typescript": "2.5.2"
    },
    "dependencies": {
+      "@types/bcrypt": "^3.0.0",
+      "@types/express": "^4.16.0",
+      "@types/mocha": "^5.2.5",
       "@types/pg": "^7.4.10",
       "mysql": "^2.14.1",
       "pg": "^7.4.3",

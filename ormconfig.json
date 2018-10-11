@@ -4,7 +4,7 @@
    "port": 5432,
    "username": "coder",
    "password": "1234",
-   "database": "basic_ts_user",
+   "database": "user_auth",
    "synchronize": true,
    "logging": false,
    "entities": [
